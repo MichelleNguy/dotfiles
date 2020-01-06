@@ -1,8 +1,8 @@
 [user]
-	name = Frida Casas
-	email = fridacasas.fc@gmail.com
+	name = Michelle Nguyen
+	email = michelle.b.nguy@gmail.com
 [github]
-	user = fridaland
+	user = michellenguy
 [push]
 	default = simple
 [credential]
@@ -15,6 +15,6 @@
 	gs = git status
 
 [core]
-	editor = "atom -w"
+	editor = "code -w"
 [rerere]
 	enabled = true
